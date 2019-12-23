@@ -1,0 +1,17 @@
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\bin\Debug\netcoreapp2.1\WebAppi.deps.json
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\bin\Debug\netcoreapp2.1\WebAppi.runtimeconfig.json
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\bin\Debug\netcoreapp2.1\WebAppi.runtimeconfig.dev.json
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\bin\Debug\netcoreapp2.1\WebAppi.dll
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\bin\Debug\netcoreapp2.1\WebAppi.pdb
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\bin\Debug\netcoreapp2.1\PruebaNetCore.dll
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\bin\Debug\netcoreapp2.1\PruebaNetCore.pdb
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\obj\Debug\netcoreapp2.1\WebAppi.csprojAssemblyReference.cache
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\obj\Debug\netcoreapp2.1\WebAppi.csproj.CoreCompileInputs.cache
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\obj\Debug\netcoreapp2.1\WebAppi.RazorAssemblyInfo.cache
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\obj\Debug\netcoreapp2.1\WebAppi.RazorAssemblyInfo.cs
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\obj\Debug\netcoreapp2.1\WebAppi.AssemblyInfoInputs.cache
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\obj\Debug\netcoreapp2.1\WebAppi.AssemblyInfo.cs
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\obj\Debug\netcoreapp2.1\WebAppi.RazorTargetAssemblyInfo.cache
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\obj\Debug\netcoreapp2.1\WebAppi.csproj.CopyComplete
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\obj\Debug\netcoreapp2.1\WebAppi.dll
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\WebAppi\obj\Debug\netcoreapp2.1\WebAppi.pdb

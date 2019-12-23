@@ -1,0 +1,11 @@
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\PruebaNetCore\bin\Debug\netcoreapp2.1\PruebaNetCore.deps.json
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\PruebaNetCore\bin\Debug\netcoreapp2.1\PruebaNetCore.runtimeconfig.json
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\PruebaNetCore\bin\Debug\netcoreapp2.1\PruebaNetCore.runtimeconfig.dev.json
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\PruebaNetCore\bin\Debug\netcoreapp2.1\PruebaNetCore.dll
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\PruebaNetCore\bin\Debug\netcoreapp2.1\PruebaNetCore.pdb
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\PruebaNetCore\obj\Debug\netcoreapp2.1\PruebaNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\PruebaNetCore\obj\Debug\netcoreapp2.1\PruebaNetCore.AssemblyInfoInputs.cache
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\PruebaNetCore\obj\Debug\netcoreapp2.1\PruebaNetCore.AssemblyInfo.cs
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\PruebaNetCore\obj\Debug\netcoreapp2.1\PruebaNetCore.dll
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\PruebaNetCore\obj\Debug\netcoreapp2.1\PruebaNetCore.pdb
+C:\Users\Fredy Mendoza\source\repos\PruebaNetCore\PruebaNetCore\obj\Debug\netcoreapp2.1\PruebaNetCore.csprojAssemblyReference.cache
